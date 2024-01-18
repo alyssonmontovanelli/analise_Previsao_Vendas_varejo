@@ -1,0 +1,53 @@
+Produto,Data_Venda,Quantidade_Comprada,Custo
+Google Phone,2019-01,318,62964.0
+Google Phone,2019-02,381,75438.0
+Google Phone,2019-03,463,91674.0
+Google Phone,2019-04,580,114840.0
+Google Phone,2019-05,480,95040.0
+Google Phone,2019-06,391,77418.0
+Google Phone,2019-07,411,81378.0
+Google Phone,2019-08,361,71478.0
+Google Phone,2019-09,341,67518.0
+Google Phone,2019-10,597,118206.0
+Google Phone,2019-11,493,97614.0
+Google Phone,2019-12,715,141570.0
+Google Phone,2020-01,1,198.0
+Notebook ThinkPad,2019-01,217,71609.28390000001
+Notebook ThinkPad,2019-02,275,90749.09250000001
+Notebook ThinkPad,2019-03,345,113848.86150000001
+Notebook ThinkPad,2019-04,390,128698.71300000002
+Notebook ThinkPad,2019-05,371,122428.77570000001
+Notebook ThinkPad,2019-06,314,103618.96380000001
+Notebook ThinkPad,2019-07,319,105268.94730000001
+Notebook ThinkPad,2019-08,274,90419.09580000001
+Notebook ThinkPad,2019-09,249,82169.17830000001
+Notebook ThinkPad,2019-10,461,152128.4787
+Notebook ThinkPad,2019-11,374,123418.76580000001
+Notebook ThinkPad,2019-12,539,177868.2213
+Notebook ThinkPad,2020-01,2,659.9934000000001
+Smartphone Vareebadd,2019-01,125,16500.0
+Smartphone Vareebadd,2019-02,129,17028.0
+Smartphone Vareebadd,2019-03,174,22968.0
+Smartphone Vareebadd,2019-04,220,29040.0
+Smartphone Vareebadd,2019-05,185,24420.0
+Smartphone Vareebadd,2019-06,155,20460.0
+Smartphone Vareebadd,2019-07,146,19272.0
+Smartphone Vareebadd,2019-08,143,18876.0
+Smartphone Vareebadd,2019-09,126,16632.0
+Smartphone Vareebadd,2019-10,203,26796.0
+Smartphone Vareebadd,2019-11,177,23364.0
+Smartphone Vareebadd,2019-12,284,37488.0
+Smartphone Vareebadd,2020-01,1,132.0
+iPhone,2019-01,379,87549.0
+iPhone,2019-02,439,101409.0
+iPhone,2019-03,538,124278.0
+iPhone,2019-04,693,160083.0
+iPhone,2019-05,640,147840.0
+iPhone,2019-06,533,123123.0
+iPhone,2019-07,502,115962.0
+iPhone,2019-08,439,101409.0
+iPhone,2019-09,397,91707.0
+iPhone,2019-10,716,165396.0
+iPhone,2019-11,665,153615.0
+iPhone,2019-12,906,209286.0
+iPhone,2020-01,2,462.0
