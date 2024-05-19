@@ -6,4 +6,6 @@
 
 Em elaboração.....
 
+Este projeto
+
 [![Confira o artigo no Medium!](https://img.shields.io/badge/Medium-Profile-black?logo=medium)](https://medium.com/@alysson.montovanelli/an%C3%A1lise-de-dados-e-proje%C3%A7%C3%B5es-de-mercado-para-empresa-varejista-b7ed39fd0349)
